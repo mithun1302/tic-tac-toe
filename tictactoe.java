@@ -1,5 +1,3 @@
-package com.example.demo.zoho;
-
 import java.util.*;
 
 public class tictactoe {
